@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+.container {
+	position: absolute;
+	top: 30%;
+	border: none;
+	border-radius: 5px;
+	background-color: #fafafa;
+}
+.form-container {
+	padding: 40px;
+	background-color: #4e4efc;
+	border-radius: 5px 5px 0 0;
+}
